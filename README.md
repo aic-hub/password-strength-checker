@@ -31,7 +31,7 @@ Enter a password to check: Test123
 Password strength: 🟡 Medium
 
 Suggestions:
-Add at least one special character (!@#$...)
+❌ Add at least one special character (!@#$...)
 
 ## 🧠 What I learned
 - Why length and character variety matter for password security
